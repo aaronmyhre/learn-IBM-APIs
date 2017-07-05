@@ -1,0 +1,3 @@
+The IBM Watson™ Tone Analyzer service uses linguistic analysis to detect communication tones in written text.
+Use the Tone Analyzer service to understand conversations and communications,
+and then respond to customers appropriately at scale.

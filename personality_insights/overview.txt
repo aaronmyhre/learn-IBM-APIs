@@ -1,0 +1,4 @@
+Personality Insights extracts personality characteristics based on how a person writes.
+You can use the service to match individuals to other individuals, opportunities, and products, or tailor their experience with personalized messaging and recommendations.
+Characteristics include the Big 5 Personality Traits, Values, and Needs.
+At least 1200 words of input text are recommended when using this service.
